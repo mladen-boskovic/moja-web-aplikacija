@@ -1,0 +1,42 @@
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WebServis\bin\Debug\netcoreapp2.1\WebServis.deps.json
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WebServis\bin\Debug\netcoreapp2.1\WebServis.runtimeconfig.json
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WebServis\bin\Debug\netcoreapp2.1\WebServis.runtimeconfig.dev.json
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WebServis\bin\Debug\netcoreapp2.1\WebServis.dll
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.RazorAssemblyInfo.cache
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.RazorAssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.AssemblyInfoInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.AssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.RazorTargetAssemblyInfo.cache
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WebServis\bin\Debug\netcoreapp2.1\WebServis.pdb
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.dll
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.pdb
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WebServis\bin\Debug\netcoreapp2.1\WebServis.deps.json
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WebServis\bin\Debug\netcoreapp2.1\WebServis.runtimeconfig.json
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WebServis\bin\Debug\netcoreapp2.1\WebServis.runtimeconfig.dev.json
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WebServis\bin\Debug\netcoreapp2.1\WebServis.dll
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WebServis\bin\Debug\netcoreapp2.1\WebServis.pdb
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.csprojAssemblyReference.cache
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.csproj.CoreCompileInputs.cache
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.RazorAssemblyInfo.cache
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.RazorAssemblyInfo.cs
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.AssemblyInfoInputs.cache
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.AssemblyInfo.cs
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.RazorTargetAssemblyInfo.cache
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.dll
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.pdb
+C:\Users\mlade\Desktop\MojaWebAplikacija\WebServis\bin\Debug\netcoreapp2.1\WebServis.deps.json
+C:\Users\mlade\Desktop\MojaWebAplikacija\WebServis\bin\Debug\netcoreapp2.1\WebServis.runtimeconfig.json
+C:\Users\mlade\Desktop\MojaWebAplikacija\WebServis\bin\Debug\netcoreapp2.1\WebServis.runtimeconfig.dev.json
+C:\Users\mlade\Desktop\MojaWebAplikacija\WebServis\bin\Debug\netcoreapp2.1\WebServis.dll
+C:\Users\mlade\Desktop\MojaWebAplikacija\WebServis\bin\Debug\netcoreapp2.1\WebServis.pdb
+C:\Users\mlade\Desktop\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.csprojAssemblyReference.cache
+C:\Users\mlade\Desktop\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Desktop\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.RazorAssemblyInfo.cache
+C:\Users\mlade\Desktop\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.RazorAssemblyInfo.cs
+C:\Users\mlade\Desktop\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.AssemblyInfoInputs.cache
+C:\Users\mlade\Desktop\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.AssemblyInfo.cs
+C:\Users\mlade\Desktop\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.RazorTargetAssemblyInfo.cache
+C:\Users\mlade\Desktop\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.dll
+C:\Users\mlade\Desktop\MojaWebAplikacija\WebServis\obj\Debug\netcoreapp2.1\WebServis.pdb

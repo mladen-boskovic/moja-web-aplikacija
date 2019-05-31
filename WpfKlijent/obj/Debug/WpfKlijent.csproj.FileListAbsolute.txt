@@ -1,0 +1,60 @@
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\bin\Debug\WpfKlijent.exe.config
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\bin\Debug\WpfKlijent.exe
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\bin\Debug\WpfKlijent.pdb
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\obj\Debug\MainWindow.g.cs
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\obj\Debug\App.g.cs
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent_MarkupCompile.cache
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent_MarkupCompile.lref
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\obj\Debug\MainWindow.baml
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.g.resources
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.Properties.Resources.resources
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.csproj.GenerateResource.cache
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.exe
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.pdb
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mlade\Documents\Visual Studio 2017\Projects\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.csproj.CopyComplete
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\bin\Debug\WpfKlijent.exe.config
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\bin\Debug\WpfKlijent.exe
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\bin\Debug\WpfKlijent.pdb
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\bin\Debug\Newtonsoft.Json.dll
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\bin\Debug\System.Net.Http.Formatting.dll
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\bin\Debug\Newtonsoft.Json.xml
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\bin\Debug\System.Net.Http.Formatting.xml
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.csprojAssemblyReference.cache
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\obj\Debug\MainWindow.g.cs
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\obj\Debug\App.g.cs
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent_MarkupCompile.cache
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent_MarkupCompile.lref
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\obj\Debug\MainWindow.baml
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.g.resources
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.Properties.Resources.resources
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.csproj.GenerateResource.cache
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.csproj.CoreCompileInputs.cache
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.csproj.CopyComplete
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.exe
+D:\Svasta\Fakultet\3. Godina\OOP C# 2\moje aplikacije\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.pdb
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\bin\Debug\WpfKlijent.exe.config
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\bin\Debug\WpfKlijent.exe
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\bin\Debug\WpfKlijent.pdb
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.csprojAssemblyReference.cache
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\obj\Debug\MainWindow.g.cs
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\obj\Debug\App.g.cs
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent_MarkupCompile.cache
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent_MarkupCompile.lref
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\obj\Debug\MainWindow.baml
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.g.resources
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.Properties.Resources.resources
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.csproj.GenerateResource.cache
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.csproj.CopyComplete
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.exe
+C:\Users\mlade\Desktop\MojaWebAplikacija\WpfKlijent\obj\Debug\WpfKlijent.pdb
